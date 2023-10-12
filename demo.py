@@ -1,3 +1,2 @@
-def hello_world():
-    return "Hello Sarika"
-
+def Greetings():
+    return "Good Morning"
